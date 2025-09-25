@@ -6,7 +6,7 @@ Este repositório contém a modelagem dimensional **Star Schema** para análise 
 
 O **Star Schema** apresentado foi modelado com base no **modelo relacional original** da universidade, adaptando a estrutura para atender às necessidades de análise e Business Intelligence (BI).
 
-#Modelo Original vs Star Schema:
+Modelo Original vs Star Schema:
 - **Modelo Relacional**: Estrutura normalizada com múltiplas entidades e relacionamentos complexos
 - **Star Schema**: Estrutura desnormalizada otimizada para consultas analíticas
 
